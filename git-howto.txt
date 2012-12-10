@@ -9,7 +9,26 @@
 
 	- buat gitignore file tanpa extension
 	- ketik command di cmd windows " rename gitignore .gitignore "
+
+4. setup username dan email
+
+	- git config --global user.email "rezafajrin.muhammad@gmail.com"
+	- git config --global user.name "reza_muhammad"
 	
-4. simpan ke repository local
-5. daftarkan repository remote
-6. push (upload) ke repository remote
+5. simpan ke repository local
+
+	- git status
+	- git add .
+	- git commit -m "commit pertama"
+	
+	
+6. daftarkan repository remote
+	
+	- git remote add origin https://github.com/rezamuhammad/trainingArtivisi.git
+	- git push -u origin master
+
+7. push (upload) ke repository remote
+
+	- git push -u GitTraining master (hanya untuk pertama kali pada saat baru buat, setelah itu hanya git push -u)
+    - input username github : 
+    - input password github : 
