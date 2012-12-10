@@ -1,0 +1,15 @@
+#membuat repository baru#
+
+1. buat folder kosong
+2. inisialisasi repository git
+	
+	- ketik command di git bash " git init "
+	
+3. buat ignore file (.gitignore)
+
+	- buat gitignore file tanpa extension
+	- ketik command di cmd windows " rename gitignore .gitignore "
+	
+4. simpan ke repository local
+5. daftarkan repository remote
+6. push (upload) ke repository remote
