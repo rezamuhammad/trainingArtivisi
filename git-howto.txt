@@ -32,3 +32,8 @@
 	- git push -u GitTraining master (hanya untuk pertama kali pada saat baru buat, setelah itu hanya git push -u)
     - input username github : 
     - input password github : 
+
+8. menambahkan catatan
+
+9. test apa aja
+
